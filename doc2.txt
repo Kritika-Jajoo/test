@@ -4,3 +4,5 @@ Adding line according to featur 1.
 Adding changes only cause krits
 
 lalalalala
+
+feature2 addition here.
